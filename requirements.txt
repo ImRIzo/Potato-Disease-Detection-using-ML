@@ -1,0 +1,8 @@
+fastapi
+tensorflow==2.5.0
+pillow
+gunicorn
+uvicorn
+numpy
+python-multipart
+protobuf==3.20
